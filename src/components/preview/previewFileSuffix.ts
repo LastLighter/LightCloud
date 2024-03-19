@@ -1,0 +1,1 @@
+export const previewSuffix = ['json', 'md', 'txt', 'yaml', 'properties','pdf', 'webp', 'png', 'jpg', 'jpeg']
